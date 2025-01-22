@@ -4,10 +4,18 @@ body{
     background-size: cover;
 }
 
-.font-noto-sans{
+.font-noto-sans-bold{
     font-family: "Noto Sans", serif;
     font-optical-sizing: auto;
     font-weight: bold;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+}
+
+.font-noto-sans-regular{
+    font-family: "Noto Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
     font-style: normal;
     font-variation-settings:"wdth" 100;
 }
