@@ -1,13 +1,11 @@
 body{
-    background-image: url(../images/bg\ hero\ section.webp);
+    background-image: url(../images/bg-hero-section.webp);
     background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .bg-digi{
-    background-image: url(../images/bg\ hero\ section.webp);
+    background-image: url(../images/bg-hero-section.webp);
     background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .font-noto-sans-bold{
