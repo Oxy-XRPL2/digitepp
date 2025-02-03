@@ -37,3 +37,9 @@ body{
     font-weight: 400;
     font-style: italic;
 }
+
+.kep-card-logo{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
