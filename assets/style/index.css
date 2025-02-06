@@ -4,11 +4,11 @@ body{
     background-size: cover;
 }
 
-.bg-digi{
-    background-image: url(../images/bg-hero-section.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+
+
+/* Fonts */
+
+
 
 .font-noto-sans-bold{
     font-family: "Noto Sans", serif;
@@ -42,4 +42,84 @@ body{
     width: 100px;
     height: 100px;
     object-fit: contain;
+}
+
+
+
+/*Font Style*/
+
+
+
+.digi-kep-card-font-regular{
+    font-size: 13px;
+}
+
+.digi-kep-card-font-bold{
+    font-size: 16px;
+    color: #59BDEA !important;
+}
+
+.digi-kep-card-sle{
+    font-size: 8px;
+}
+
+.digi-kep-card-link{
+    font-size: 34px;
+    color: #59BDEA !important;
+    text-decoration: none;
+}
+
+.digi-testimonial-author{
+    color: #59BDEA;
+    font-size: 8px;
+}
+
+.digi-berita-title{
+    color: #59BDEA;
+    font-size: 16px;
+}
+
+
+
+/* Background */
+
+
+
+.digi-gradient-bg{
+    background-image: url(../images/bg-hero-section.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.digi-feature-bg{
+    background-color: #EDFAFF;
+}
+
+.digi-jumbotron-1-bg{
+    background-color: #F5FAF6;;
+}
+
+.digi-jumbotron-2-bg{
+    background-color: #F8ECEA;;
+}
+
+
+
+/* Button */
+
+
+
+.digi-button-yellow-gradient{
+    background:linear-gradient(to bottom, #F6DE16, #F05C22);
+    background-repeat: no-repeat;
+}
+
+.digi-jumbotron-1-button{
+    background: linear-gradient(to bottom, #76C461, #30B771);
+    background-repeat: no-repeat;
+}
+
+.digi-jumbotron-2-button{
+    background: linear-gradient(to bottom, #F85034, #A82D18);
+    background-repeat: no-repeat;
 }
