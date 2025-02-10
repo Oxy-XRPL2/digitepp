@@ -1,10 +1,3 @@
-body{
-    background-image: url(../images/bg-hero-section.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-
 
 /* Fonts */
 
@@ -130,19 +123,19 @@ body{
 
 
 .digi-text-color-blue{
-    color: #59BDEA;
+    color: #59BDEA !important;
 }
 
 .digi-text-color-green{
-    color: #4DA361;
+    color: #4DA361 !important;
 }
 
 .digi-text-color-orange{
-    color: #E69F3C;
+    color: #E69F3C !important;
 }
 
 .digi-text-color-red{
-    color: #CC5642;
+    color: #CC5642 !important;
 }
 
 
