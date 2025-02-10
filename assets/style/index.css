@@ -123,3 +123,64 @@ body{
     background: linear-gradient(to bottom, #F85034, #A82D18);
     background-repeat: no-repeat;
 }
+
+
+
+/* Color */
+
+
+.digi-text-color-blue{
+    color: #59BDEA;
+}
+
+.digi-text-color-green{
+    color: #4DA361;
+}
+
+.digi-text-color-orange{
+    color: #E69F3C;
+}
+
+.digi-text-color-red{
+    color: #CC5642;
+}
+
+
+
+.digi-bg-color-blue{
+    background-color: #59BDEA;
+}
+
+.digi-bg-color-green{
+    background-color: #4DA361;
+}
+
+.digi-bg-color-orange{
+    background-color: #E69F3C;
+}
+
+.digi-bg-color-red{
+    background-color: #CC5642;
+}
+
+
+
+.digi-ligra-blue{
+    background-image: linear-gradient(to bottom , #6CC9DC, #437FC1);
+    background-repeat: no-repeat;
+}
+
+.digi-ligra-green{
+    background-image: linear-gradient(to bottom , #76C461, #30B771);
+    background-repeat: no-repeat;
+}
+
+.digi-ligra-orange{
+    background-image: linear-gradient(to bottom , #F6DE16, #F05C22);
+    background-repeat: no-repeat;
+}
+
+.digi-ligra-red{
+    background-image: linear-gradient(to bottom , #F85034, #A82D18);
+    background-repeat: no-repeat;
+}
