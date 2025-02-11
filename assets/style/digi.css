@@ -141,19 +141,19 @@
 
 
 .digi-bg-color-blue{
-    background-color: #59BDEA;
+    background-color: #59BDEA !important;
 }
 
 .digi-bg-color-green{
-    background-color: #4DA361;
+    background-color: #4DA361 !important;
 }
 
 .digi-bg-color-orange{
-    background-color: #E69F3C;
+    background-color: #E69F3C !important;
 }
 
 .digi-bg-color-red{
-    background-color: #CC5642;
+    background-color: #CC5642 !important;
 }
 
 
