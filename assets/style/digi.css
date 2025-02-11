@@ -4,31 +4,31 @@
 
 
 .font-noto-sans-bold{
-    font-family: "Noto Sans", serif;
+    font-family: "Noto Sans", serif !important;
     font-optical-sizing: auto;
-    font-weight: bold;
-    font-style: normal;
+    font-weight: bold !important;
+    font-style: normal !important;
     font-variation-settings:"wdth" 100;
 }
 
 .font-noto-sans-regular{
-    font-family: "Noto Sans", serif;
+    font-family: "Noto Sans", serif !important;
     font-optical-sizing: auto;
     font-weight: 500;
-    font-style: normal;
+    font-style: normal !important;
     font-variation-settings:"wdth" 100;
 }
 
 .font-dm-serif-text-regular {
-    font-family: "DM Serif Text", serif;
+    font-family: "DM Serif Text", serif !important;
     font-weight: 400;
-    font-style: normal;
+    font-style: normal !important;
 }
 
 .font-dm-serif-text-regular-italic {
-    font-family: "DM Serif Text", serif;
+    font-family: "DM Serif Text", serif !important;
     font-weight: 400;
-    font-style: italic;
+    font-style: italic !important;
 }
 
 .kep-card-logo{
