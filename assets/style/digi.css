@@ -97,28 +97,6 @@
 }
 
 
-
-/* Button */
-
-
-
-.digi-button-yellow-gradient{
-    background:linear-gradient(to bottom, #F6DE16, #F05C22);
-    background-repeat: no-repeat;
-}
-
-.digi-jumbotron-1-button{
-    background: linear-gradient(to bottom, #76C461, #30B771);
-    background-repeat: no-repeat;
-}
-
-.digi-jumbotron-2-button{
-    background: linear-gradient(to bottom, #F85034, #A82D18);
-    background-repeat: no-repeat;
-}
-
-
-
 /* Color */
 
 
