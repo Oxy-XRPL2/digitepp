@@ -136,6 +136,24 @@
 
 
 
+.digi-border-color-blue{
+    border-color: #59BDEA !important;
+}
+
+.digi-border-color-green{
+    border-color: #4DA361 !important;
+}
+
+.digi-border-color-orange{
+    border-color: #E69F3C !important;
+}
+
+.digi-border-color-red{
+    border-color: #CC5642 !important;
+}
+
+
+
 .digi-ligra-blue{
     background-image: linear-gradient(to bottom , #6CC9DC, #437FC1);
     background-repeat: no-repeat;
