@@ -173,3 +173,12 @@
     background-image: linear-gradient(to bottom , #F85034, #A82D18);
     background-repeat: no-repeat;
 }
+
+.digi-gradient-overlay{
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0) 60%);
+    padding: 1rem;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
