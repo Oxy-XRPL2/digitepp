@@ -80,8 +80,20 @@
 
 .digi-gradient-bg{
     background-image: url(../images/bg-hero-section.webp);
-    background-repeat: no-repeat;
     background-size: cover;
+}
+
+.digi-gradient-bg{
+    background-image: url(../images/bg-hero-section.webp);
+    background-size: cover;
+}
+
+.digi-bg-repeat{
+    background-repeat: repeat;
+}
+
+.digi-bg-no-repeat{
+    background-repeat: no-repeat;
 }
 
 .digi-feature-bg{
