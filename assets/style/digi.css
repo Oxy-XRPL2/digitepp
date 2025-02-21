@@ -194,3 +194,40 @@
     bottom: 0;
     left: 0;
 }
+
+
+/* Media Queries */
+
+
+/* Viewports Smaller than 1440px. */
+@media screen and (max-width: 1023.98px) {
+    
+    .digi-headline-vw-low{
+        color: #000;
+    }
+
+    .digi-hdl-card-vw-low{
+        width: 100% !important;
+    }
+
+}
+
+/* Viewports Larger than 1440px or equal */
+@media screen and (min-width: 1024px) {
+    
+    .digi-headline-vw-high{
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        padding: 1rem;
+        width: 100%;
+        color: #ffffff;
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0) 60%);
+    }
+
+    .digi-hdl-card-vw-high{
+        width: 85% !important;
+    }
+}
