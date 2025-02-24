@@ -1,4 +1,12 @@
 
+.kep-card-logo{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+
+
+
 /* Fonts */
 
 
@@ -29,12 +37,6 @@
     font-family: "DM Serif Text", serif !important;
     font-weight: 400;
     font-style: italic !important;
-}
-
-.kep-card-logo{
-    width: 100px;
-    height: 100px;
-    object-fit: contain;
 }
 
 
