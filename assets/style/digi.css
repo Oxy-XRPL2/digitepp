@@ -98,6 +98,14 @@
     background-repeat: no-repeat;
 }
 
+.digi-bg-cover{
+    background-size: cover;
+}
+
+.digi-bg-contain{
+    background-size: contain;
+}
+
 .digi-feature-bg{
     background-color: #EDFAFF;
 }
@@ -150,6 +158,24 @@
 
 
 
+.digi-bg-color-blue-subtle{
+    background-color: #F5FAF6;
+}
+
+.digi-bg-color-green-subtle{
+    background-color: #EDFAFF;
+}
+
+.digi-bg-color-orange-subtle{
+    background-color: #FAFAF5;
+}
+
+.digi-bg-color-red-subtle{
+    background-color: #FAF6F5;
+}
+
+
+
 .digi-border-color-blue{
     border-color: #59BDEA !important;
 }
@@ -168,22 +194,22 @@
 
 
 
-.digi-ligra-blue{
+.digi-bg-ligra-blue{
     background-image: linear-gradient(to bottom , #6CC9DC, #437FC1);
     background-repeat: no-repeat;
 }
 
-.digi-ligra-green{
+.digi-bg-ligra-green{
     background-image: linear-gradient(to bottom , #76C461, #30B771);
     background-repeat: no-repeat;
 }
 
-.digi-ligra-orange{
+.digi-bg-ligra-orange{
     background-image: linear-gradient(to bottom , #F6DE16, #F05C22);
     background-repeat: no-repeat;
 }
 
-.digi-ligra-red{
+.digi-bg-ligra-red{
     background-image: linear-gradient(to bottom , #F85034, #A82D18);
     background-repeat: no-repeat;
 }
@@ -195,6 +221,28 @@
     position: absolute;
     bottom: 0;
     left: 0;
+}
+
+
+
+.digi-border-ligra-blue{
+    border-image: linear-gradient(to bottom, #6CC9DC, #437FC1);
+    border-image-slice: 1;
+}
+
+.digi-border-ligra-green{
+    border-image: linear-gradient(to bottom, #76C461, #30B771);
+    border-image-slice: 1;
+}
+
+.digi-border-ligra-orange{
+    border-image: linear-gradient(to bottom, #F6DE16, #F05C22);
+    border-image-slice: 1;
+}
+
+.digi-border-ligra-red{
+    border-image: linear-gradient(to bottom, #F85034, #A82D18);
+    border-image-slice: 1;
 }
 
 
