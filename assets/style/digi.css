@@ -45,6 +45,85 @@
 
 
 
+.digi-h1{
+    font-size: 56px !important;
+}
+
+.digi-h2{
+    font-size: 46px !important;
+}
+
+.digi-h3{
+    font-size: 40px !important;
+}
+
+.digi-h3-bold{
+    font-size: 40px !important;
+    font-weight: 700 !important;
+}
+
+.digi-h4{
+    font-size: 34px !important;
+}
+
+.digi-h5{
+    font-size: 26px !important;
+}
+
+.digi-p1{
+    font-size: 26px !important;
+}
+
+.digi-p1-bold{
+    font-size: 26px !important;
+    font-weight: 700 !important;
+}
+
+.digi-p2{
+    font-size: 20px !important;
+}
+
+.digi-p2-bold-link{
+    font-size: 20px !important;
+    font-weight: 700 !important;
+    color: #000000 !important;
+    text-decoration: underline;
+}
+
+.digi-p2-bold{
+    font-size: 20px !important;
+    font-weight: 700 !important;
+}
+
+.digi-p3{
+    font-size: 18px !important;
+}
+
+.digi-p3-bold{
+    font-size: 18px !important;
+    font-weight: 700 !important;
+}
+
+.digi-p4{
+    font-size: 16px !important;
+}
+
+.digi-p4-bold{
+    font-size: 16px !important;
+    font-weight: 700 !important;
+}
+
+.digi-p5{
+    font-size: 13px !important;
+}
+
+.digi-p5-bold{
+    font-size: 13px !important;
+    font-weight: 700 !important;
+}
+
+
+
 .digi-kep-card-font-regular{
     font-size: 13px;
 }
