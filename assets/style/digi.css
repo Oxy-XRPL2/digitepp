@@ -159,19 +159,19 @@
 
 
 .digi-bg-color-blue-subtle{
-    background-color: #EDFAFF;
+    background-color: #EDFAFF !important;
 }
 
 .digi-bg-color-green-subtle{
-    background-color: #F5FAF6;
+    background-color: #F5FAF6 !important;
 }
 
 .digi-bg-color-orange-subtle{
-    background-color: #FAFAF5;
+    background-color: #FAFAF5 !important;
 }
 
 .digi-bg-color-red-subtle{
-    background-color: #FAF6F5;
+    background-color: #FAF6F5 !important;
 }
 
 
