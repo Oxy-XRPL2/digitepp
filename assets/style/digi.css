@@ -4,6 +4,9 @@
     object-fit: contain;
 }
 
+.digi-backdrop-blur{
+    backdrop-filter: blur(10px);
+}
 
 
 /* Fonts */
