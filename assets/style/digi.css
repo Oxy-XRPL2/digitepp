@@ -1,4 +1,3 @@
-
 .kep-card-logo{
     width: 100px;
     height: 100px;
@@ -342,7 +341,7 @@
 }
 
 /* Viewports Larger than 1440px or equal */
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 992px) {
     
     .digi-headline-vw-high{
         position: absolute;
@@ -358,5 +357,43 @@
 
     .digi-hdl-card-vw-high{
         width: 85% !important;
+    }
+}
+
+
+
+.digi-carousel-item {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+}
+
+
+/* Large */
+@media screen and (min-width: 992px) {
+    .digi-carousel-inner-lg {
+        position: relative;
+        width: 30vw !important;
+        height: 65vw !important;
+    }
+}
+
+
+/* Medium */
+@media screen and (min-width: 768px) and (max-width: 991.98px) {
+    .digi-carousel-inner-md {
+        position: relative;
+        width: 50vw !important;
+        height: 80vw !important;
+    }
+}
+
+
+/* Small */
+@media screen and (min-width: 376px) and (max-width: 767.98px) {
+    .digi-carousel-inner-sm {
+        position: relative;
+        width: 80vw !important;
+        height: 130vw !important;
     }
 }
